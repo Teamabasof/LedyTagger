@@ -11,8 +11,8 @@ _**Bu bot, qruplarda 10.000'ə qədər useri və kanallarda 200'ə qədər useri
 ### 🛠️Support Qrup
 - [telegram](https://t.me/SOQrup) 😁
 
-### 🎯 Mənimlə əlaqə
-- [Telegam](https://t.me/tenha055) :)
+### 🙃 Mənimlə əlaqə
+- [Telegam](https://t.me/tenha055) 👻
 
 Buyrun 🌹👀👀👀👀🌙🌙🌙🌙🌙🌙🌙🌙
 
@@ -31,3 +31,5 @@ Buyrun 🌹👀👀👀👀🌙🌙🌙🌙🌙🌙🌙🌙
 
 
 👻👻
+###SUPPORTU1
+- Support1 [telegram](https://t.me/ruzgar_alican) 🌹
