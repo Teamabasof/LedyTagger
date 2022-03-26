@@ -1,0 +1,22 @@
+{
+  "name": "Ledy Tagger Bot",
+  "logo":"https://telegra.ph/file/243a7b19fb8d1e978ca34.jpg",
+  "description": "Rich Tagger Bot ərup və kanallarda userleri tag edən botdur.",
+  "env": {
+    "TOKEN": {
+      "description": "bot token girin.",
+      "value": "5157792139:AAFJsXLAK1JWY15ZK1nIt0Z90TPZYQMq8ck"
+    },
+    "APP_ID": {
+      "description": "my.telegram.org dan api id alın.",
+      "value": "19374379"
+    },
+    "API_HASH": {
+      "description": "my.telegram.org dan api hash alın.",
+      "value": "b906f58e4ac866407fb0a59e39130552"
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
