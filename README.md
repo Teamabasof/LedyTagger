@@ -13,9 +13,9 @@ _**Bu bot, qruplarda 10.000'ə qədər useri və kanallarda 200'ə qədər useri
 - [telegram](https://t.me/SOQrup) 😁
 
 ### 🙃 Mənimlə əlaqə
-- [Telegam](https://t.me/tenha055) 👻
+- [MR AĞA](https://t.me/tenha055) 👻
 
-Buyrun 🌹👀👀👀👀🌙🌙🌙🌙🌙🌙🌙🌙
+_Buyrun_ 👀👀👀
 
 .
 
@@ -34,4 +34,4 @@ Buyrun 🌹👀👀👀👀🌙🌙🌙🌙🌙🌙🌙🌙
 👻👻
 
 ### SUPPORTU1
-- [telegram](https://t.me/ruzgar_alican) 🌹
+- [BİLİM ADAM](https://t.me/ruzgar_alican) 🌹
