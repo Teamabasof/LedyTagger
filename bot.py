@@ -32,7 +32,7 @@ async def cancel(event):
 
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
-  await event.reply("Salam 👋\n\nMənim adım Ledy Tagger, Mən sizin əvəzinizə qruplarnızda istifadəçiləri tag edə bilərəm.\n\nHaqqımda daha ətraflı məlumat əldə etmək üçün /help əmrinə toxunun.",
+  await event.reply("Salam 👋\n\ Ledy Tagger, Mən sizin əvəzinizə qruplarnızda istifadəçiləri tag edə bilərəm.\n\nHaqqımda daha ətraflı məlumat əldə etmək üçün /help əmrinə toxunun.",
                     buttons=(
                       [Button.url('🌟 Məni Qrupa Sal', 'http://t.me/LedyTagRobot?startgroup=botstart')],
                       [Button.url('🛠 Support', 'https://t.me/SOQrup'),
@@ -43,10 +43,10 @@ async def start(event):
                    )
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "**Ledy Tagger Bot'un Kömək Menyusu**\n\nƏmrlər:\n/all <səbəb> - 5-li tag edəcəkdir. \n/tagadmin <səbəb> - Yalnız adminləri tag edəcəkdir. \n/tektag <səbəb> - Tək-tək tag edəcəkdir.\n/etag <səbəb> - Emojilər ilə tag edəcəkdir."
+  helptext = "**🌹Ledy Tagger Bot'un Ərmləri və haqqında🌹**\n\nƏmrlər:\n/all <səbəb> - 👀5-li tag edəcəkdir. \n/tagadmin <səbəb> - 👻Yalnız adminləri tag edəcəkdir. \n/tektag <səbəb> - 😁Tək-tək tag edəcəkdir.\n/etag <səbəb> - 😋Emojilər ilə tag edəcəkdir."
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('👻 Məni Qrupa Sal', 'http://t.me/LedyTagRobot?startgroup=botstart')],
+                      [Button.url('✅Məni Qrupa Sal✅', 'http://t.me/LedyTagRobot?startgroup=botstart')],
                       [Button.url('🛠 Support', 'https://t.me/SOQrup'),
                       Button.url('📣 Rəsmi Kanal', 'https://t.me/ledyplaylist')],
                       [Button.url('👨‍💻 Sahibim', 'https://t.me/tenha055')]
@@ -59,7 +59,7 @@ async def help(event):
 async def mentionall(event):
   global anlik_calisan
   if event.is_private:
-    return await event.respond("__**Bu əmr yalnız qruplarda və kanallarda işlədilə bilər**❗__")
+    return await event.respond("__**Bu əmr yalnız qrup və kanallarda işlədilə bilər**❗__")
   
   admins = []
   async for admin in client.iter_participants(event.chat_id, filter=ChannelParticipantsAdmins):
