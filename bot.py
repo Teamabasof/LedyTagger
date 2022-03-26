@@ -50,8 +50,8 @@ async def help(event):
                       [Button.url('🛠 Support', 'https://t.me/SOQrup'),
                       Button.url('📣 Rəsmi Kanal', 'https://t.me/ledyplaylist')],
                       [Button.url('👨‍💻 Sahibim', 'https://t.me/tenha055')]
-                      Button.inline('məlumat', "https://t.me/tenha055").
-                    ),
+                    
+                   ),
                     link_preview=False
                    )
 
