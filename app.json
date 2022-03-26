@@ -5,7 +5,7 @@
   "env": {
     "TOKEN": {
       "description": "bot token girin.",
-      "value": "5157792139:AAFJsXLAK1JWY15ZK1nIt0Z90TPZYQMq8ck"
+      "value": @botfather dən alın!"
     },
     "APP_ID": {
       "description": "my.telegram.org dan api id alın.",
