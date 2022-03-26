@@ -1,4 +1,4 @@
-# Ledy Tagger Bo
+# Ledy Tagger Bot
 ![logo](https://telegra.ph/file/7918f0bf522b6d3868c59.jpg)
 _**Bu bot, qruplarda 10.000'ə qədər useri və kanallarda 200'ə qədər useri tağ edə bilər !**_
 
