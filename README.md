@@ -34,4 +34,4 @@ Buyrun 🌹👀👀👀👀🌙🌙🌙🌙🌙🌙🌙🌙
 👻👻
 
 ### SUPPORTU1
-- Support1 [telegram](https://t.me/ruzgar_alican) 🌹
+- [telegram](https://t.me/ruzgar_alican) 🌹
