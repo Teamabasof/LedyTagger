@@ -36,3 +36,5 @@ _Buyrun_ 👀👀👀
 ### SUPPORTU1
 - [BİLİM ADAM](https://t.me/ruzgar_alican) 🌹
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### TAGGER
+![logo](https://telegra.ph/file/be2565e79a66775c9c837.jpg)
