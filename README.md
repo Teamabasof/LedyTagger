@@ -38,3 +38,4 @@ _Buyrun_ 👀👀👀
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ### TAGGER
 ![logo](https://telegra.ph/file/be2565e79a66775c9c837.jpg)
+- [!depo](https://t.me/LedyTagRobot)]
