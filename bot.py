@@ -32,7 +32,7 @@ async def cancel(event):
 
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
-  await event.reply("Salam 👋\n\ Mən sizin əvəzinizə qruplarnızda istifadəçiləri tag edə bilərəm.\n\nHaqqımda daha ətraflı məlumat əldə etmək üçün /help əmrinə toxunun.",
+  await event.reply("Salam 👋\n\ **Mən sizin əvəzinizə qruplarnızda istifadəçiləri tag edə bilərəm**.\n\n**Haqqımda daha ətraflı məlumat əldə etmək üçün /help əmrinə toxunun**.",
                     buttons=(
                       [Button.url('🌟 Məni Qrupa Sal', 'http://t.me/LedyTagRobot?startgroup=botstart')],
                       [Button.url('🛠 Support', 'https://t.me/SOQrup'),
@@ -43,7 +43,7 @@ async def start(event):
                    )
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "**🌹Ledy Tagger Bot'un Ərmləri və haqqında🌹**\n\ Haqqında:\nbu bot, qruplarda 10.000'ə qədər useri və kanallarda 200'ə qədər useri tağ edə bilər. nəzərinizə çatdırımki bot'u qrupda admin huquqları verin yoxsa bot cavab verməyəcək!\n\nƏmrlər:\n/all <səbəb> - 👀5-li tag edəcəkdir. \n/tagadmin <səbəb> - 👻Yalnız adminləri tag edəcəkdir. \n/tektag <səbəb> - 😁Tək-tək tag edəcəkdir.\n/etag <səbəb> - 😋Emojilər ilə tag edəcəkdir."
+  helptext = "**🌹Ledy Tagger Bot'un Əmrləri və haqqında🌹**\n\ Haqqında:\n\`mən,qruplarda 10.000'ə qədər useri və kanallarda 200'ə qədər useri tağ edə bilərəm`!\n\Əmrlər:\n/all **səbəb - 👀5-li tag edəcəkdir. \n/tagadmin **səbəb** - 👻Yalnız adminləri tag edəcəkdir. \n/tektag **səbəb** - 😁Tək-tək tag edəcəkdir.\n/etag **səbəb** - 😋Emojilər ilə tag edəcəkdir."
   await event.reply(helptext,
                     buttons=( 
                       [Button.url('✅Məni Qrupa Sal✅', 'http://t.me/LedyTagRobot?startgroup=botstart')],
