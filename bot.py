@@ -145,7 +145,7 @@ async def tektag(event):
     await client.send_message(event.chat_id, "😻 **Tək-Tək Tag Başladı**\n⏱️ İnterval - 2 saniyə",
                     buttons=(
                       [
-                      Button.inline(f"dayandır", data="cancel")
+                      Button.inline(f"❌dayandır❌", data="cancel")
                       ]
                     )
                   ) 
