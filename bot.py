@@ -43,7 +43,7 @@ async def start(event):
                    )
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "**🌹Ledy Tagger Bot'un Əmrləri və haqqında🌹**\n Haqqında:\n `mən,qruplarda 10.000'ə qədər useri və kanallarda 200'ə qədər useri tağ edə bilərəm`!\n/Əmrlər:\n/all **səbəb** - 👀5-li tag edəcəkdir. \n/tagadmin **səbəb** - 👻Yalnız adminləri tag edəcəkdir. \n/tektag **səbəb** - 😁Tək-tək tag edəcəkdir.\n/etag **səbəb** - 😋Emojilər ilə tag edəcəkdir."
+  helptext = "**🌹Ledy Tagger Bot'un Əmrləri və haqqında🌹**\n Haqqında:\n `mən,qruplarda 10.000'ə qədər useri və kanallarda 200'ə qədər useri tağ edə bilərəm`!\nƏmrlər:\n/all **səbəb** - 👀5-li tag edəcəkdir. \n/tagadmin **səbəb** - 👻Yalnız adminləri tag edəcəkdir. \n/tektag **səbəb** - 😁Tək-tək tag edəcəkdir.\n/etag **səbəb** - 😋Emojilər ilə tag edəcəkdir."
   await event.reply(helptext,
                     buttons=( 
                       [Button.url('✅Məni Qrupa Sal✅', 'http://t.me/LedyTagRobot?startgroup=botstart')],
