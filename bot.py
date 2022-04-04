@@ -32,7 +32,7 @@ async def cancel(event):
 
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
-  await event.reply("Salam 👋\n\**Mən sizin əvəzinizə qruplarnızda istifadəçiləri tag edə bilərəm**.\n\n**Haqqımda daha ətraflı məlumat əldə etmək üçün /help əmrinə toxunun**.",
+  await event.reply("Salam 👋\n **Mən sizin əvəzinizə qruplarnızda istifadəçiləri tag edə bilərəm**.\n\n**Haqqımda daha ətraflı məlumat əldə etmək üçün /help əmrinə toxunun**.",
                     buttons=(
                       [Button.url('💞 Məni Qrupa Sal💞', 'http://t.me/LedyTagRobot?startgroup=botstart')],
                       [Button.url('🛠️ Dəstək', 'https://t.me/SOQrup'),
