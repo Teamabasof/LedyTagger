@@ -1,6 +1,6 @@
 {
   "name": "Ledy Tagger Bot",
-  "logo":"https://telegra.ph/file/243a7b19fb8d1e978ca34.jpg",
+  "logo":"",
   "description": "Rich Tagger Bot ərup və kanallarda userleri tag edən botdur.",
   "env": {
     "TOKEN": {
