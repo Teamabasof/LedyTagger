@@ -38,4 +38,4 @@ _Buyrun_ 👀👀👀
 
 ### TAGGER
 ![logo](https://telegra.ph/file/be2565e79a66775c9c837.jpg)
-- [![depo](https://t.me/LedyTagRobot)]
+- [![logo](https://telegra.ph/file/be2565e79a66775c9c837.jpg)[depo](https://t.me/LedyTagRobot)]
