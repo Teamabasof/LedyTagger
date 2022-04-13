@@ -37,5 +37,5 @@ _Buyrun_ 👀👀👀
 - [BİLİM ADAM](https://t.me/ruzgar_alican) 🌹
 
 ### TAGGER
-![logo](https://telegra.ph/file/be2565e79a66775c9c837.jpg)
+
 - [![logo](https://telegra.ph/file/be2565e79a66775c9c837.jpg)[depo](https://t.me/LedyTagRobot)]
